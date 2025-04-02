@@ -1,1 +1,1 @@
-Image compression implemented in C using AVL for processing PPM format images.
+Image compression implemented in C using AVL trees for processing PPM format images.
